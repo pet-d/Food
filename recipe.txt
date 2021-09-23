@@ -1,5 +1,10 @@
-Today menu:
+Monday Menu:
+1. pizza
+2. hamburger
+3. hotdog
 
-1.pizza
-2.hamburger
-3.hotdog
+
+Tuesday Menu:
+1. sushi
+2. kebab
+3. dimsum
